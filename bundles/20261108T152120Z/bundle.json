@@ -1,0 +1,11 @@
+{
+  "version": "20261108T152120Z",
+  "object_key": "bundles/20261108T152120Z/bundle.tar.gz",
+  "download_url": "/platform_hub/core/api/v1/policy_engine/bundles/latest/download",
+  "policy_count": 1,
+  "policy_ids": [
+    "allow-all"
+  ],
+  "size_bytes": 572,
+  "created_at": "2026-11-08T15:21:20.353702922Z"
+}
